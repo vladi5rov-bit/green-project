@@ -1,0 +1,242 @@
+[
+  {
+    "ID": 13,
+    "label": 2,
+    "typeT": 1,
+    "date": 1761214336276,
+    "logoN": 1,
+    "Name": "AAAAAAAA",
+    "amount": 10,
+    "from": "BALA"
+  },
+  {
+    "ID": 17,
+    "label": 3,
+    "typeT": 4,
+    "date": 1761223890960,
+    "logoN": 1,
+    "Name": "NICA ALA BALA",
+    "amount": 10,
+    "from": "ALA BALA"
+  },
+  {
+    "ID": 16,
+    "label": 3,
+    "typeT": 4,
+    "date": 1761215306200,
+    "logoN": 1,
+    "Name": "NICA2",
+    "amount": 10,
+    "from": "ALA BALA"
+  },
+  {
+    "ID": 18,
+    "label": 2,
+    "typeT": 1,
+    "date": 1761224131702,
+    "logoN": 1,
+    "Name": "NICA ALA BALA  nic",
+    "amount": 11,
+    "from": "BALA   AAA"
+  },
+  {
+    "ID": 10,
+    "label": 3,
+    "typeT": 2,
+    "date": 1015500000000,
+    "logoN": 4,
+    "Name": "H&M Online Store",
+    "amount": 19.72,
+    "from": "Georgia"
+  },
+  {
+    "ID": 5,
+    "label": 3,
+    "typeT": 2,
+    "date": 1015900000000,
+    "logoN": 4,
+    "Name": "H&M Online Store",
+    "amount": 19.72,
+    "from": "Georgia"
+  },
+  {
+    "ID": 3,
+    "label": 3,
+    "typeT": 3,
+    "date": 1009100000000,
+    "logoN": 1,
+    "Name": "Amazon Online Store",
+    "amount": 22.1,
+    "from": "Georgia"
+  },
+  {
+    "ID": 8,
+    "label": 3,
+    "typeT": 3,
+    "date": 1009900000000,
+    "logoN": 1,
+    "Name": "Amazon Online Store",
+    "amount": 22.1,
+    "from": "Georgia"
+  },
+  {
+    "ID": 15,
+    "label": 1,
+    "typeT": 2,
+    "date": 1761215155257,
+    "logoN": 1,
+    "Name": "NICA ALA BALA",
+    "amount": 40,
+    "from": "BALA"
+  },
+  {
+    "ID": 4,
+    "label": 2,
+    "typeT": 1,
+    "date": 1012400000000,
+    "logoN": 3,
+    "Name": "7-Eleven",
+    "amount": 46.25,
+    "from": "Georgia"
+  },
+  {
+    "ID": 9,
+    "label": 2,
+    "typeT": 1,
+    "date": 1012800000000,
+    "logoN": 3,
+    "Name": "7-Eleven",
+    "amount": 46.25,
+    "from": "Georgia"
+  },
+  {
+    "ID": 14,
+    "label": 1,
+    "typeT": 3,
+    "date": 1761214556243,
+    "logoN": 1,
+    "Name": "NICA ALA",
+    "amount": 50,
+    "from": "ALA BALA"
+  },
+  {
+    "ID": 22,
+    "label": 1,
+    "typeT": 2,
+    "date": 1761401499839,
+    "logoN": 1,
+    "Name": "EEEEEEEEEE",
+    "amount": 55,
+    "from": "ALA BALA"
+  },
+  {
+    "ID": 1,
+    "label": 2,
+    "typeT": 1,
+    "date": 1000000000000,
+    "logoN": 1,
+    "Name": "The Tea Lounge",
+    "amount": 82.02,
+    "from": "Georgia"
+  },
+  {
+    "ID": 11,
+    "label": 1,
+    "typeT": 1,
+    "date": 1000070000000,
+    "logoN": 1,
+    "Name": "The Tea Lounge",
+    "amount": 82.02,
+    "from": "Georgia"
+  },
+  {
+    "ID": 6,
+    "label": 2,
+    "typeT": 1,
+    "date": 1000900000000,
+    "logoN": 1,
+    "Name": "The Tea Lounge",
+    "amount": 82.02,
+    "from": "Georgia"
+  },
+  {
+    "ID": 2,
+    "label": 3,
+    "typeT": 2,
+    "date": 1005500000000,
+    "logoN": 2,
+    "Name": "Texaco",
+    "amount": 84.64,
+    "from": "Georgia"
+  },
+  {
+    "ID": 7,
+    "label": 2,
+    "typeT": 2,
+    "date": 1005900000000,
+    "logoN": 2,
+    "Name": "Texaco",
+    "amount": 84.64,
+    "from": "Georgia"
+  },
+  {
+    "ID": 12,
+    "label": 1,
+    "typeT": 3,
+    "date": 1761214214964,
+    "logoN": 1,
+    "Name": "NICA",
+    "amount": 110,
+    "from": "ALA BALA"
+  },
+  {
+    "ID": 19,
+    "label": 3,
+    "typeT": 2,
+    "date": 1761303042314,
+    "logoN": 1,
+    "Name": "BBBBBBBBB",
+    "amount": 111,
+    "from": "BALA"
+  },
+  {
+    "ID": 21,
+    "label": 2,
+    "typeT": 2,
+    "date": 1761303365760,
+    "logoN": 1,
+    "Name": "DDDDDDDDD",
+    "amount": 222,
+    "from": "ALA BALA"
+  },
+  {
+    "ID": 20,
+    "label": 3,
+    "typeT": 3,
+    "date": 1761303280944,
+    "logoN": 1,
+    "Name": "cccccccCCCCCCC",
+    "amount": 333,
+    "from": "ALA BALA"
+  },
+  {
+    "ID": 23,
+    "label": 3,
+    "typeT": 2,
+    "date": 1761488824837,
+    "logoN": 1,
+    "Name": "BUUUUU",
+    "amount": 13,
+    "from": "AAZZZAAA"
+  },
+  {
+    "ID": 24,
+    "label": 3,
+    "typeT": 4,
+    "date": 1761488979837,
+    "logoN": 1,
+    "Name": "VFFFF",
+    "amount": 1123,
+    "from": "AAZZZAAA"
+  }
+]
